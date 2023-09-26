@@ -1,0 +1,15 @@
+package fatst_java;
+
+public class {
+	
+	public static void main(string[]   args)
+	{
+		int sum =0 ; // initializing the value 0 in sum
+		system.out.println(x'odd numbers between 7 & 21 are: ');
+		for(int i=7;i<=21;i++) {
+			if(i%2!=0) {             // it will check if the number id odd
+				system.out.println(i); // it will display the odd numbers
+				sum=sum+i; // will be adding the odd number to the sum
+			}
+		}
+	}
